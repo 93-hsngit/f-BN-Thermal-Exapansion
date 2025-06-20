@@ -1,1 +1,1 @@
-# f-BN-Thermal-Exapansion
+# f-BN-Thermal-Expansion
