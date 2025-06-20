@@ -1,0 +1,21 @@
+SYSTEM   = hBN
+#NCORE    = 8
+KPAR     = 4
+
+ENCUT    = 750
+ALGO     = Normal
+PREC     = Accurate
+EDIFF    = 1.0e-8
+
+IBRION   = 8
+NSW      = 1
+
+ISMEAR   = -5
+SIGMA    = 0.05
+
+LASPH    = True
+LREAL    = False
+ADDGRID  = True
+
+NWRITE   = 3
+LEPSILON = True
